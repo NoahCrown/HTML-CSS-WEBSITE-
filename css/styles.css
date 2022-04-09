@@ -1,0 +1,174 @@
+*{
+  margin: 0;
+  padding:0;
+}
+body {
+  font-family: Circular-Bold, "Circular Std", Helvetica, sans-serif;
+
+}
+
+
+.opening {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+.noah-tag {
+  color: white;
+}
+.header-opening {
+  color: white;
+  text-align: center;
+  padding-top: 20%;
+  font-size: 90px;
+  font-family: Circular-Bold, "Circular Std", Helvetica, sans-serif;
+}
+.second-section {
+  background-color: white;
+  width: 100%;
+  height: 70vh;
+  margin-right: 0;
+}
+.black-div {
+  background-color: black;
+  width: 60%;
+  height: 60vh;
+  margin-left: 608px;
+  margin-top: 40px;
+  position: absolute;
+;
+}
+.about-me {
+  padding: 50px;
+  color: #83FFE6;
+  font-family: Circular-Bold, "Circular Std", Helvetica, sans-serif;
+  font-size: 60px;
+  padding-bottom: 0;
+}
+.information-png {
+  display: inline-block;
+  width: 250px;
+  height: auto;
+  position: absolute;
+  margin: 120px;
+
+}
+
+p {
+  color: white;
+  font-family: Circular-Bold, "Circular Std", Helvetica, sans-serif;
+  padding: 50px;
+  padding-top: 0;
+  font-size: 40px;
+  line-height: 1.5;
+}
+.third-section {
+  background-color: black;
+  width: 100%;
+  height: 66vh;
+}
+
+.navy-div {
+  background-color: white;
+  width: 60%;
+  height: 50%;
+  margin: 60px;
+  margin-left: 0;
+  position: absolute;
+
+}
+
+.skills-image {
+  position: absolute;
+  right: 3px;
+  margin: 50px;
+  width: 40px;
+  height: auto;
+}
+
+.skills {
+  color: #2C2727;
+  padding: 50px;
+  font-family: Circular-Bold, "Circular Std", Helvetica, sans-serif;
+  font-size: 50px;
+}
+
+.html-image {
+  position: absolute;
+  width: 120px;
+  height: auto;
+  margin: 30px;
+  margin-top: 0;
+  display: inline-block;
+}
+.css-image {
+  position: absolute;
+  width: 90px;
+  height: auto;
+  margin: 30px;
+  margin-top: 0;
+  margin-left: 200px;
+
+}
+.skills-img{
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 50px;
+  right: 40px;
+  width: 400px;
+  height: auto;
+
+}
+.python-image {
+  position: absolute;
+  width: 140px;
+  height: auto;
+  margin-left:350px;
+  margin-bottom: 120px;
+}
+.java-image {
+  position: absolute;
+  width: 130px;
+  height: auto;
+  margin-left:540px;
+  margin-bottom: 150px;
+
+}
+
+.fourth-section {
+  background-color: white;
+  width: 95%;
+  height: auto;
+  margin: 40px;
+  text-align: center;
+
+}
+.get-in-touch {
+  font-size: 50px;
+  color: black;
+}
+.p2 {
+  color: black;
+  font-size: 20px;
+
+}
+.text-div {
+  text-align: center;
+  margin-bottom: 0;
+}
+.github-icon {
+  width: 60px;
+  display: inline-block;
+
+
+}
+.linkedin {
+  width: 120px;
+  margin-left: 20px;
+  display: inline-block;
+}
+.facebook-icon {
+  width: 120px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
